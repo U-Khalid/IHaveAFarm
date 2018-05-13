@@ -1,0 +1,35 @@
+.connect_body{
+	float:left;
+	width:1190px;;
+	height:900px;
+	margin-left:6%;
+}
+
+.connect_font{
+	float:left;
+	width:97%;
+	height:300px;
+	margin-top:15px;
+	margin-left:3%
+}
+	
+.QR_Code{
+	width:150px;
+	height:150px;
+	background-color: #000;
+	float:right;
+	margin-right:60px;
+	margin-top:-160px;
+}
+
+.connect_map{
+	width:1190px;
+	height:350px;
+	float:left;
+}
+
+.map{
+	margin-top:30px;
+	margin-left:8%;
+}
+

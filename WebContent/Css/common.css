@@ -1,0 +1,30 @@
+.sign{
+	float:left;
+	border-left:5px solid #fb5638;
+	height:30px;
+	width:90%;
+	font-weight: bold;
+	line-height: 30px;
+	color:#34495e;
+}
+
+.basic_hr{
+	float:left;
+	border-bottom:2px solid #AAC9DB;
+	height:2px;
+	width:100%;
+	margin-top:2px;
+}
+
+.basic_intro_font{
+	float:left;
+	width:100%;
+	height:145px;
+	margin-top:15px;
+}
+
+.pre-font{
+	text-align: center;
+	font-size:15px;
+	color:#32393E;
+}

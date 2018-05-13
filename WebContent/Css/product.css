@@ -1,0 +1,40 @@
+.allProductBody{
+	float:left;
+	width:1190px;;
+	height:800px;
+	margin-left:6%;
+}
+
+.detailBody{
+	float:left;
+	width:1190px;
+	height:800px;
+	margin-left:6%;
+}
+
+.detailName{
+	float:left;
+	height:50px;
+	width:90%;
+	font-weight: bold;
+	line-height: 50px;
+	color:#34495e;
+	font-size: 30px;
+}
+
+.detailImage{
+	float:left;
+	width:900px;
+	height:400px;
+	margin-left:12%;
+	margin-top:5%;
+}
+
+.detailIntro{
+	font-size:18px;
+	color:#34495e;
+	float:left;
+	width:100%;
+	height:100px;
+	margin-top:5px;
+}
